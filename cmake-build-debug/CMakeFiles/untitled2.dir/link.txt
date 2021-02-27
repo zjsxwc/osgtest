@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled2.dir/main.cpp.o  -o untitled2  /usr/lib/libosgViewer.so /usr/lib/libosgDB.so /usr/lib/libosgUtil.so /usr/lib/libosg.so /usr/lib/libOpenThreads.so 

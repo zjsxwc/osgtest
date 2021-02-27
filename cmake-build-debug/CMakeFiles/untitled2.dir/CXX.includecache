@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangchao/CLionProjects/untitled2/main.cpp
+iostream
+-
+osgViewer/Viewer
+-
+osg/Node
+-
+osg/Geode
+-
+osg/Group
+-
+osgDB/ReadFile
+-
+osgDB/WriteFile
+-
+osgUtil/Optimizer
+-
+
