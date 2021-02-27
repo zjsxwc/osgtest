@@ -11,6 +11,7 @@
 
 #include <osgUtil/Optimizer>
 
+//manjaro run yay -S openscenegrouph
 int main() {
     osg::ref_ptr<osgViewer::Viewer> viewer = new osgViewer::Viewer();
 
